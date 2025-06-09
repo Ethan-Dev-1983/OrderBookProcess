@@ -212,11 +212,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\OrderBookProcessor.csproj",
+      "projectUniqueName": "C:\\Users\\rephe\\source\\repos\\final\\新建文件夹\\code\\OrderBookProcessor\\OrderBookProcessor.csproj",
       "projectName": "OrderBookProcessor",
-      "projectPath": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\OrderBookProcessor.csproj",
+      "projectPath": "C:\\Users\\rephe\\source\\repos\\final\\新建文件夹\\code\\OrderBookProcessor\\OrderBookProcessor.csproj",
       "packagesPath": "C:\\Users\\rephe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\obj\\",
+      "outputPath": "C:\\Users\\rephe\\source\\repos\\final\\新建文件夹\\code\\OrderBookProcessor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
