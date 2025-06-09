@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydF0AjM2iKU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\OrderBookProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rephe\\.nuget\\packages\\log4net\\3.1.0\\log4net.3.1.0.nupkg.sha512",
+    "C:\\Users\\rephe\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.5\\system.configuration.configurationmanager.9.0.5.nupkg.sha512",
+    "C:\\Users\\rephe\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.5\\system.diagnostics.eventlog.9.0.5.nupkg.sha512",
+    "C:\\Users\\rephe\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.5\\system.security.cryptography.protecteddata.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
