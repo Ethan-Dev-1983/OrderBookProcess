@@ -21,6 +21,7 @@ namespace OrderBookProcessor.TaskManagement
         public override async Task ExecuteTask()
         {
             LogStartInfo(nameof(LocalStdInTaskWorker));
+            LogUtils.logInfo($"Handle orders in serial.");
             if (!CheckShell()) {
                  throw new Exception("Pipe mode can only be supported in Bash Shell. Kindly run OrderBookProcessor <depth_levels> [input_file|input_url] instead in PowerShell");
             }
